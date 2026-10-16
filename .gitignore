@@ -5,6 +5,7 @@ codigos-lanzamiento.env
 # archivos generados automáticamente
 dist/
 node_modules/
+.idea/
 
 logs/server*.log
 !logs/server.log
